@@ -1,0 +1,12 @@
+{
+    "TOKEN": "MTI1Nzk0ODI2ODM0NDYzOTU4MA.GAlG5R.UB28Y9QAzBi2v5vgDbYqWiV78XiBsF5HlZV5ts",
+    "MONGO_DB": "mongodb+srv://Kronix1:arjun@cluster0.ob9wwsc.mongodb.net/?retryWrites=true&w=majority",
+    "cooldown": true,
+    "owner": ["1025884510748950558"
+, "1200445118122053723"],
+    "admin": ["1025884510748950558"],
+    "np": ["1025884510748950558"],
+    "invite": "https://discord.com/oauth2/authorize?client_id=1259509419117641728&permissions=8&scope=bot%20applications.commands"
+
+
+}
